@@ -14,7 +14,7 @@ sites:
     url: mc.noko1024.net
     port: 25565
   - name: global-wakahara
-    url: https://global-wakahara.com
+    url: https://wp.global-wakahara.com
 
 assignees:
   - noko1024
